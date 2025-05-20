@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Ehab</h1>
-<h3 align="center">An embedded systems software engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamehab2112&label=Profile%20views&color=0e75b6&style=flat" alt="adhamehab2112" /> </p>
 
